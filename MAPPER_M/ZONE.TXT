@@ -1,0 +1,120 @@
+000: Camelot Hills             
+001: Salisbury Plains          
+002: Black Mtns. South         
+003: Black Mtns. North         
+004: Dartmoor                  
+006: Cornwall                  
+007: Llyn Barfog               
+008: Campacorentin Forest      
+009: Avalon Marsh              
+010: Lyonesse                  
+011: Forest Sauvage            
+012: Snowdonia                 
+013: Caerwent                  
+014: Pennine Mountains         
+015: Hadrian's Wall            
+016: Sarum                     
+017: Rilan                     
+018: Dalton
+019: Stonehenge Barrows        is a dungeon in region 20
+021: Tomb of Mithra            is a dungeon in region 21
+022: Keltoi Fogou              is a dungeon in region 22
+023: Catacombs of Cardova      is a dungeon in region 23
+024: Tepok's Mine              is a dungeon in region 24
+026: City of Camelot           is a city in region 10
+050: Avalon City               is a city in region 50
+051: Isle of Glass             
+052: Avalon Isle               
+053: Dales of Devwy            
+054: Caldey                    
+055: Gwyddneau                 
+056: Aldland                   
+057: Inishail Island           
+060: Caer Sidi                 is a dungeon in region 60
+061: Krondon                   is a dungeon in region 61
+062: Crystal Cave              is a dungeon in region 62
+
+70 - 91 : atlantis
+
+
+
+MIDGARD
+
+100: Vale of Mularn            
+101: East Svealand             
+102: West Svealand             
+103: Gotar                     
+104: Muspelheim                
+105: Myrkwood Forest           
+106: Skona Ravine              
+107: Vanern Swamp              
+108: Raumarik                  
+111: Uppland                   
+112: Yggdra Forest             
+113: Jamtland Mountains        
+114: Erikstaad                 
+115: Odin's Gate               
+116: Malmohus                  
+117: Arothi                    
+118: Carlingford               
+119: Wyndham                   
+120: Jordheim                  is a city in region 101
+125: Spindelhalla              is a dungeon in region 125
+126: Vendo Caverns             is a dungeon in region 126
+127: Varulvhamn                is a dungeon in region 127
+128: Cursed Tomb               is a dungeon in region 128
+129: Nisse's Lair              is a dungeon in region 129
+150: Trollheim                 is a dungeon in region 150
+151: Aegir's Landing           
+152: Gripklosa Mountains       
+153: Delling Crater            
+154: Faraheim                  
+155: Munin Sound               
+156: Iarnwood                  
+157: Dummy Zone                
+158: Modernagrav               
+160: Tuscaran Glacier          is a dungeon in region 160
+161: Iarnvidiur's Lair         is a dungeon in region 161
+180: Fomor                     is a dungeon in region 180
+181: Domnann                   
+182: Caillte Garran            
+183: Vale of Balor             
+184: Cothrom Gorge             
+185: World's End               
+186: Vigilant Rock             
+187: Allta Fearann             
+190: Tur Suil                  is a dungeon in region 190
+191: Galladoria                is a dungeon in region 191
+200: Lough Derg                
+201: Silvermine Mts.           
+202: Shannon Estuary           
+203: Cliffs of Moher           
+204: Lough Gur                 
+205: Bog of Cullen             
+206: Valley of Bri Leith       
+207: Connacht                  
+208: Cursed Forest             
+209: Tir na Nog                is a city in region 201
+210: Mount Collory             
+211: Cruachan Gorge            
+212: Breifine                  
+213: Meath                     
+214: Emain Macha               
+215: Dunshire                  
+216: Collines de Sheeroe       
+217: Torrylin                  
+218: Kilcullen                 
+220: Coruscating Mine          is a dungeon in region 220
+221: Muire Tomb                is a dungeon in region 221
+222: Spraggon Den              is a dungeon in region 222
+223: Koalinth Caverns          is a dungeon in region 223
+224: Treibh Caillte            is a dungeon in region 224
+245: Hall of the Corrupt       is a dungeon in region 245
+246: Dodens Gruva              is a dungeon in region 246
+247: Marfach Caverns           is a dungeon in region 247
+248: Summoner's Hall           is a dungeon in region 248
+249: Darkness Falls            is a dungeon in region 249
+250: Val de Béryl              
+251: Murdaigean                
+252: Thidranki                 
+253: Abermenai                 

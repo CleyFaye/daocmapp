@@ -1,0 +1,11 @@
+Outils utilisé :
+
+python 2.3 pour windows et 2.2 pour cygnus
+cygwin pour mapall.sh
+pil python image library pour windows et cygnus
+nvidia dxttools (readdxt) car certaines images étaient compressées au format dxt5
+environement windows
+
+du coup sa ressemble du bricollage
+
+fabrice

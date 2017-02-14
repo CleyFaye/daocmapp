@@ -1,0 +1,8 @@
+c'est ici qu'il faut mettre readdxt.exe des dxtools de nvidia
+ou texconve.exe apres avoir installé dx9sdk de microsoft
+
+ces deux programmes demandent dx9
+
+modifié backgroundrenderer.py en conséquence
+
+fabrice

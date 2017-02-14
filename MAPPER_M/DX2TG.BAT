@@ -1,0 +1,1 @@
+@bin\readdxt temp.dds
